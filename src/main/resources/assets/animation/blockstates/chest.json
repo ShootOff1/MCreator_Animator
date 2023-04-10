@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "animation:custom/chest_particle"
+    },
+    "facing=east": {
+      "model": "animation:custom/chest_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "animation:custom/chest_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "animation:custom/chest_particle",
+      "y": 270
+    }
+  }
+}

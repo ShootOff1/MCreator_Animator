@@ -1,0 +1,6 @@
+{
+  "parent": "animation:custom/chest",
+  "textures": {
+    "particle": "animation:blocks/chest"
+  }
+}

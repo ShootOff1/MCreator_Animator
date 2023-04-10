@@ -1,0 +1,6 @@
+{
+  "parent": "animation:custom/lightsaber",
+  "textures": {
+    "layer0": "animation:items/light_saber"
+  }
+}

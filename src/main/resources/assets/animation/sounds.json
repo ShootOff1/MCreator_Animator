@@ -1,0 +1,20 @@
+{
+  "light_saber_on": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "animation:lightsaber_02",
+        "stream": false
+      }
+    ]
+  },
+  "light_saber": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "animation:lightsaber-hum",
+        "stream": false
+      }
+    ]
+  }
+}
